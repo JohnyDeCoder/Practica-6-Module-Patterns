@@ -5,5 +5,5 @@ let greet = () => {
 }
 
 module.exports = {
-    greet: greet
+    greet
 }
